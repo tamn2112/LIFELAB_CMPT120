@@ -1,0 +1,2 @@
+# This folders includes data related to HOSPITALS level.
+# Currenly having: ADMISSIONS.csv and ADMISSIONS.ipynp 
